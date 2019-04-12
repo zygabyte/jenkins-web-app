@@ -15,7 +15,7 @@ namespace JenkinsWebApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page. NEW NEW NEWN EWNNE";
 
             return View();
         }
